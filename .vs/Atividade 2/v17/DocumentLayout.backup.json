@@ -5,6 +5,10 @@
     {
       "AbsoluteMoniker": "D:0:0:{6030C955-1B9A-41B8-B3B1-6DA215F1D25A}|Atividade 2\\Atividade 2.csproj|c:\\users\\juliana.pnogueira1\\source\\repos\\atividade 2\\atividade 2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{6030C955-1B9A-41B8-B3B1-6DA215F1D25A}|Atividade 2\\Atividade 2.csproj|solutionrelative:atividade 2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6030C955-1B9A-41B8-B3B1-6DA215F1D25A}|Atividade 2\\Ex 2.csproj|c:\\users\\juliana.pnogueira1\\source\\repos\\atividade 2\\atividade 2\\ex 2.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{6030C955-1B9A-41B8-B3B1-6DA215F1D25A}|Atividade 2\\Ex 2.csproj|solutionrelative:atividade 2\\ex 2.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     }
   ],
   "DocumentGroupContainers": [
@@ -14,8 +18,21 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Ex 2.csproj",
+              "DocumentMoniker": "C:\\Users\\juliana.pnogueira1\\source\\repos\\Atividade 2\\Atividade 2\\Ex 2.csproj",
+              "RelativeDocumentMoniker": "Atividade 2\\Ex 2.csproj",
+              "ToolTip": "C:\\Users\\juliana.pnogueira1\\source\\repos\\Atividade 2\\Atividade 2\\Ex 2.csproj",
+              "RelativeToolTip": "Atividade 2\\Ex 2.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-01-22T21:49:10.8Z",
+              "EditorCaption": ""
+            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
